@@ -1,0 +1,40 @@
+header {
+    background-image: url('/Users/owennigel/Desktop/projects/weblearn/resources/images/pattern.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('./resources/images/pattern.jpg');
+}
+
+.subheader{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.backgreen{
+    background-color: mediumspringgreen;
+}
+
+.backred{
+    background-color: lightcoral;
+}
+
+.backblue{
+    background-color: skyblue;
+}
+
+.blue{
+    color: blue;
+    font-weight: bold;
+    font-family: Helvetica;
+}
