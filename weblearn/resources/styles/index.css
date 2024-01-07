@@ -1,5 +1,5 @@
 header {
-    background-image: url('/Users/owennigel/Desktop/projects/weblearn/resources/images/pattern.jpg');
+    background-image: url('https://github.com/owennigel1/owennigel1.github.io/blob/main/weblearn/resources/images/pattern.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,7 +11,6 @@ header {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url('./resources/images/pattern.jpg');
 }
 
 .subheader{
